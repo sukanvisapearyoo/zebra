@@ -10,6 +10,6 @@
 <body>
     <h1>Hello world</h1>
     <h2>We are Suki and Junny</h2>
-    <h2>Full stack is kindda fun</h2>
+    <h3>Here is the garbage</h3>
 </body>
 </html>
